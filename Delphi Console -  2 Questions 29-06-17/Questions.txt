@@ -1,0 +1,2 @@
+1-)Faça uma rotina que some dois quadrados perfeitos até 100: 
+2-) Faça uma rotina que conte quantos espaços existem em seu nome:
